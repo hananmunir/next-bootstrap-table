@@ -13,7 +13,7 @@ const Footer = () => {
             <div className='col-lg-12'>
               <div className='footer-top'>
                 <div className='footer-top-left'>
-                  <a target='_blank' href='#'>
+                  <a target='_blank' rel='noreferrer' href='#'>
                     <img src='img/logo.svg' alt='' />
                   </a>
                 </div>
@@ -40,7 +40,11 @@ const Footer = () => {
                 <p>Copyright © 2022, All rights reserved.</p>
                 <ul className='social_icons'>
                   <li>
-                    <a target='_blank' href='https://t.me/RosyWhale'>
+                    <a
+                      target='_blank'
+                      rel='noreferrer'
+                      href='https://t.me/RosyWhale'
+                    >
                       <svg
                         width={26}
                         height={26}
@@ -68,7 +72,11 @@ const Footer = () => {
                     </a>
                   </li>
                   <li>
-                    <a target='_blank' href='https://discord.gg/gp7bZeFuYf'>
+                    <a
+                      target='_blank'
+                      rel='noreferrer'
+                      href='https://discord.gg/gp7bZeFuYf'
+                    >
                       <svg
                         width={28}
                         height={20}
@@ -96,7 +104,11 @@ const Footer = () => {
                     </a>
                   </li>
                   <li>
-                    <a target='_blank' href='https://twitter.com/rosy_whale'>
+                    <a
+                      target='_blank'
+                      rel='noreferrer'
+                      href='https://twitter.com/rosy_whale'
+                    >
                       <svg
                         width={26}
                         height={20}
@@ -112,7 +124,11 @@ const Footer = () => {
                     </a>
                   </li>
                   <li>
-                    <a target='_blank' href='https://medium.com/@rosywhale'>
+                    <a
+                      target='_blank'
+                      rel='noreferrer'
+                      href='https://medium.com/@rosywhale'
+                    >
                       <BsMedium color={"#fff"} fontSize={30} />
                     </a>
                   </li>

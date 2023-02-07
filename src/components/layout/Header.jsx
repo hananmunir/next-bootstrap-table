@@ -14,7 +14,11 @@ const Header = () => {
                 </a>
                 <ul className='social_icons'>
                   <li>
-                    <a target='_blank' href='https://t.me/RosyWhale'>
+                    <a
+                      target='_blank'
+                      rel='noreferrer'
+                      href='https://t.me/RosyWhale'
+                    >
                       <svg
                         width={26}
                         height={26}
@@ -42,7 +46,11 @@ const Header = () => {
                     </a>
                   </li>
                   <li>
-                    <a target='_blank' href='https://discord.gg/gp7bZeFuYf'>
+                    <a
+                      target='_blank'
+                      rel='noreferrer'
+                      href='https://discord.gg/gp7bZeFuYf'
+                    >
                       <svg
                         width={28}
                         height={20}
@@ -70,7 +78,11 @@ const Header = () => {
                     </a>
                   </li>
                   <li>
-                    <a target='_blank' href='https://twitter.com/rosy_whale'>
+                    <a
+                      target='_blank'
+                      rel='noreferrer'
+                      href='https://twitter.com/rosy_whale'
+                    >
                       <svg
                         width={26}
                         height={20}
@@ -86,7 +98,11 @@ const Header = () => {
                     </a>
                   </li>
                   <li>
-                    <a target='_blank' href='https://medium.com/@rosywhale'>
+                    <a
+                      target='_blank'
+                      rel='noreferrer'
+                      href='https://medium.com/@rosywhale'
+                    >
                       <BsMedium color={"#fff"} fontSize={30} />
                     </a>
                   </li>
@@ -115,12 +131,18 @@ const Header = () => {
               <div className='headerActBtns text-end'>
                 <a
                   target='_blank'
+                  rel='noreferrer'
                   href='./@/Whitepaper RosyWhale WP2.pdf'
                   className='btn inactive'
                 >
                   Whitepaper
                 </a>
-                <a target='_blank' href='#' className='btn active'>
+                <a
+                  target='_blank'
+                  rel='noreferrer'
+                  href='#'
+                  className='btn active'
+                >
                   Enter App
                 </a>
               </div>
@@ -178,16 +200,16 @@ const Header = () => {
           </li>
         </ul>
         <div className='headerActBtns text-end'>
-          <a target='_blank' href='#' className='btn inactive'>
+          <a target='_blank' rel='noreferrer' href='#' className='btn inactive'>
             Whitepaper
           </a>
-          <a target='_blank' href='#' className='btn active'>
+          <a target='_blank' rel='noreferrer' href='#' className='btn active'>
             Enter App
           </a>
         </div>
         <ul className='social_icons'>
           <li>
-            <a target='_blank' href='#'>
+            <a target='_blank' rel='noreferrer' href='#'>
               <svg
                 width={26}
                 height={26}
@@ -215,7 +237,7 @@ const Header = () => {
             </a>
           </li>
           <li>
-            <a target='_blank' href='#'>
+            <a target='_blank' rel='noreferrer' href='#'>
               <svg
                 width={28}
                 height={20}
@@ -243,7 +265,7 @@ const Header = () => {
             </a>
           </li>
           <li>
-            <a target='_blank' href='#'>
+            <a target='_blank' rel='noreferrer' href='#'>
               <svg
                 width={26}
                 height={20}
@@ -259,7 +281,7 @@ const Header = () => {
             </a>
           </li>
           <li>
-            <a target='_blank' href='#'>
+            <a target='_blank' rel='noreferrer' href='#'>
               <svg
                 width={28}
                 height={28}

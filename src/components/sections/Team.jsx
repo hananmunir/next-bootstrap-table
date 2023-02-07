@@ -29,7 +29,7 @@ const Team = () => {
                   {/* <li><a target="_blank" href="#"><img src="img/icons/fb.png" alt=""></a></li> 
                               <li><a target="_blank" href="#"><img src="img/icons/tw.png" alt=""></a></li>  */}
                   <li>
-                    <a target='_blank' href='#'>
+                    <a target='_blank' rel='noreferrer' href='#'>
                       <img src='img/icons/lknd.png' alt='' />
                     </a>
                   </li>
@@ -58,6 +58,7 @@ const Team = () => {
                   <li>
                     <a
                       target='_blank'
+                      rel='noreferrer'
                       href=' https://www.linkedin.com/in/gabriele-pauliukaite-763676114/'
                     >
                       <img src='img/icons/lknd.png' alt='' />
@@ -88,6 +89,7 @@ const Team = () => {
                   <li>
                     <a
                       target='_blank'
+                      rel='noreferrer'
                       href='https://www.linkedin.com/in/lukas-navickas/'
                     >
                       <img src='img/icons/lknd.png' alt='' />
@@ -118,6 +120,7 @@ const Team = () => {
                   <li>
                     <a
                       target='_blank'
+                      rel='noreferrer'
                       href='https://www.linkedin.com/in/vadimas-bondarenka-85812350/'
                     >
                       <img src='img/icons/lknd.png' alt='' />
@@ -148,6 +151,7 @@ const Team = () => {
                   <li>
                     <a
                       target='_blank'
+                      rel='noreferrer'
                       href='https://www.linkedin.com/in/vnorkus'
                     >
                       <img src='img/icons/lknd.png' alt='' />
@@ -178,6 +182,7 @@ const Team = () => {
                   <li>
                     <a
                       target='_blank'
+                      rel='noreferrer'
                       href='https://www.linkedin.com/in/piotr-k-8989175/'
                     >
                       <img src='img/icons/lknd.png' alt='' />
@@ -206,7 +211,7 @@ const Team = () => {
                   {/* <li><a target="_blank" href="#"><img src="img/icons/fb.png" alt=""></a></li> 
                               <li><a target="_blank" href="#"><img src="img/icons/tw.png" alt=""></a></li>  */}
                   <li>
-                    <a target='_blank' href='#'>
+                    <a target='_blank' rel='noreferrer' href='#'>
                       <img src='img/icons/lknd.png' alt='' />
                     </a>
                   </li>
@@ -236,7 +241,7 @@ const Team = () => {
                   {/* <li><a target="_blank" href="#"><img src="assets/img/icons/fb.png" alt=""></a></li> 
                                         <li><a target="_blank" href="#"><img src="assets/img/icons/tw.png" alt=""></a></li>  */}
                   <li>
-                    <a target='_blank' href='#'>
+                    <a target='_blank' rel='noreferrer' href='#'>
                       <img src='assets/img/icons/lknd.png' alt='' />
                     </a>
                   </li>
